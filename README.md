@@ -1,2 +1,1 @@
-# edm-base
-Base project for EDM services
+# Event Driven Microservices Project
