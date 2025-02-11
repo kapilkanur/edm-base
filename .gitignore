@@ -27,3 +27,4 @@ replay_pid*
 
 .DS_Store
 .idea/
+/edm-twitter-to-kafka-service/target/
